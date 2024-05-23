@@ -6,7 +6,7 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-# Adding an Image
+# Adding Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Adding Code
@@ -19,3 +19,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 var myVar = "Hello, world!";
 ```
+# Adding Task List
+
+- [x] List syntax is required
+- [ ] This item is complete
+- [x] This item is not complete
